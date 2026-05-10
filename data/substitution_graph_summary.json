@@ -1,0 +1,1046 @@
+{
+  "n_materials": 41190,
+  "n_with_tc": 892,
+  "n_components": 22983,
+  "n_violations": 0,
+  "top_components": [
+    {
+      "rank": 1,
+      "class_invariant": 33.47022368342787,
+      "n_materials": 4,
+      "n_with_tc": 2,
+      "point_groups": [
+        "D3h"
+      ],
+      "formulas": [
+        "AgN",
+        "MoP",
+        "MoN",
+        "MoN"
+      ],
+      "tc_spread": 24.84925077977823
+    },
+    {
+      "rank": 2,
+      "class_invariant": 32.69089224607844,
+      "n_materials": 5,
+      "n_with_tc": 3,
+      "point_groups": [
+        "D6h"
+      ],
+      "formulas": [
+        "B2Be",
+        "B2Mg",
+        "B2Mg",
+        "B2Be",
+        "B2Ca"
+      ],
+      "tc_spread": 2.1196492782447187
+    },
+    {
+      "rank": 3,
+      "class_invariant": 29.5284491513867,
+      "n_materials": 16,
+      "n_with_tc": 3,
+      "point_groups": [
+        "D6h"
+      ],
+      "formulas": [
+        "Bi2Pd2",
+        "N2Zr2",
+        "N2Pd2",
+        "N2Ru2",
+        "N2Zr2",
+        "Bi2Rh2",
+        "Bi2Rh2",
+        "N2Rh2",
+        "N2Zr2",
+        "N2Ru2"
+      ],
+      "tc_spread": 29.506238972809815
+    },
+    {
+      "rank": 4,
+      "class_invariant": 28.09053401874162,
+      "n_materials": 9,
+      "n_with_tc": 2,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "CTi",
+        "SiV",
+        "CV",
+        "PbV",
+        "CNi",
+        "CV",
+        "SnV",
+        "GeV",
+        "CCr"
+      ],
+      "tc_spread": 26.310079976232387
+    },
+    {
+      "rank": 5,
+      "class_invariant": 22.90009558838419,
+      "n_materials": 32,
+      "n_with_tc": 4,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "Cr",
+        "Ti",
+        "Cu",
+        "V",
+        "Mn",
+        "Mn",
+        "Fe",
+        "Ti",
+        "Ni",
+        "Co"
+      ],
+      "tc_spread": 19.347402231265754
+    },
+    {
+      "rank": 6,
+      "class_invariant": 21.599740692816635,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D4h"
+      ],
+      "formulas": [
+        "C2H2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 7,
+      "class_invariant": 20.78032741418409,
+      "n_materials": 10,
+      "n_with_tc": 3,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "PSc",
+        "AsSc",
+        "SbSc",
+        "BiSc",
+        "SbSc",
+        "AsSc",
+        "PSc",
+        "NSc",
+        "AsSc",
+        "NSc"
+      ],
+      "tc_spread": 20.780326961609287
+    },
+    {
+      "rank": 8,
+      "class_invariant": 20.585709098483743,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "C2v"
+      ],
+      "formulas": [
+        "Mn2N2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 9,
+      "class_invariant": 20.403702269361062,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "Ci"
+      ],
+      "formulas": [
+        "LaN2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 10,
+      "class_invariant": 20.255119548750272,
+      "n_materials": 16,
+      "n_with_tc": 6,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "TcV",
+        "RuTi",
+        "RhV",
+        "NbV",
+        "MoV",
+        "RhZn",
+        "RuV",
+        "RuV",
+        "AgZn",
+        "TcTi"
+      ],
+      "tc_spread": 20.24139075536045
+    },
+    {
+      "rank": 11,
+      "class_invariant": 20.03643206071191,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "C3v"
+      ],
+      "formulas": [
+        "N6Re2Ti2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 12,
+      "class_invariant": 19.406984582327393,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D2h"
+      ],
+      "formulas": [
+        "B4C2N2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 13,
+      "class_invariant": 19.037375511294535,
+      "n_materials": 9,
+      "n_with_tc": 3,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "Fe3NRh",
+        "Mn3NRh",
+        "Fe3NPd",
+        "Cu3NRh",
+        "Cr3NRh",
+        "Mn3NRh",
+        "Cu3NPd",
+        "Mn3NPd",
+        "Cr3NPd"
+      ],
+      "tc_spread": 8.905108441613256
+    },
+    {
+      "rank": 14,
+      "class_invariant": 18.686987692543607,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "B6K"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 15,
+      "class_invariant": 17.632942260132562,
+      "n_materials": 6,
+      "n_with_tc": 3,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "Pb2V6",
+        "Si2V6",
+        "Ge2V6",
+        "Ge2V6",
+        "Si2V6",
+        "Sn2V6"
+      ],
+      "tc_spread": 10.159745982471737
+    },
+    {
+      "rank": 16,
+      "class_invariant": 17.565177796309943,
+      "n_materials": 12,
+      "n_with_tc": 3,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "NNb",
+        "PZr",
+        "NPd",
+        "NZr",
+        "NZr",
+        "NPd",
+        "NTc",
+        "NRu",
+        "NNb",
+        "NTc"
+      ],
+      "tc_spread": 7.829663820461121
+    },
+    {
+      "rank": 17,
+      "class_invariant": 17.191563713858148,
+      "n_materials": 5,
+      "n_with_tc": 4,
+      "point_groups": [
+        "D6h"
+      ],
+      "formulas": [
+        "B2W",
+        "B2W",
+        "B2Hf",
+        "B2Ta",
+        "B2Hf"
+      ],
+      "tc_spread": 17.191563713858105
+    },
+    {
+      "rank": 18,
+      "class_invariant": 17.155451017952267,
+      "n_materials": 12,
+      "n_with_tc": 2,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "CZr",
+        "SnZr",
+        "CRh",
+        "CTc",
+        "CRh",
+        "CTc",
+        "CZr",
+        "CPd",
+        "CRu",
+        "CNb"
+      ],
+      "tc_spread": 16.572890555976734
+    },
+    {
+      "rank": 19,
+      "class_invariant": 17.12493349871122,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D6h"
+      ],
+      "formulas": [
+        "C2Sc2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 20,
+      "class_invariant": 17.016544411042386,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D6h"
+      ],
+      "formulas": [
+        "Nb2S2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 21,
+      "class_invariant": 16.97126024246517,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D2h"
+      ],
+      "formulas": [
+        "MoNbO4"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 22,
+      "class_invariant": 16.501426785688462,
+      "n_materials": 5,
+      "n_with_tc": 2,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "Mo6Si2",
+        "Nb6Si2",
+        "Nb6Sn2",
+        "Nb6Pb2",
+        "Mo6Sn2"
+      ],
+      "tc_spread": 10.17593204658295
+    },
+    {
+      "rank": 23,
+      "class_invariant": 16.42799344051992,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D6h"
+      ],
+      "formulas": [
+        "B2Li"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 24,
+      "class_invariant": 16.147996464680585,
+      "n_materials": 45,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D3d"
+      ],
+      "formulas": [
+        "FeO2",
+        "CoS2",
+        "CrSe2",
+        "NiS2",
+        "CrS2",
+        "CoO2",
+        "NiTe2",
+        "FeO2",
+        "CrO2",
+        "CoO2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 25,
+      "class_invariant": 16.104558147243274,
+      "n_materials": 9,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D3h"
+      ],
+      "formulas": [
+        "CPt",
+        "COs",
+        "CIr",
+        "CW",
+        "CRe",
+        "CTa",
+        "CHf",
+        "CHf",
+        "CW"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 26,
+      "class_invariant": 15.928289059864907,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D3d"
+      ],
+      "formulas": [
+        "B2O2S"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 27,
+      "class_invariant": 15.576646371951586,
+      "n_materials": 27,
+      "n_with_tc": 4,
+      "point_groups": [
+        "D6h"
+      ],
+      "formulas": [
+        "Fe2Te2",
+        "Cr2Se2",
+        "Fe2Te2",
+        "Ni2S2",
+        "Cr2S2",
+        "Mn2Te2",
+        "Cr2Se2",
+        "Ni2Te2",
+        "Co2Se2",
+        "Mn2Se2"
+      ],
+      "tc_spread": 14.62835416901285
+    },
+    {
+      "rank": 28,
+      "class_invariant": 15.2291287282242,
+      "n_materials": 14,
+      "n_with_tc": 2,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "COs",
+        "CIr",
+        "CTa",
+        "CHf",
+        "CPt",
+        "CIr",
+        "CPt",
+        "CHf",
+        "CIr",
+        "CTa"
+      ],
+      "tc_spread": 15.187513687501353
+    },
+    {
+      "rank": 29,
+      "class_invariant": 15.174386921745754,
+      "n_materials": 2,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D3d"
+      ],
+      "formulas": [
+        "Cr3N2",
+        "Mn3N2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 30,
+      "class_invariant": 14.910065457301341,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "CNbRu3"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 31,
+      "class_invariant": 14.619343426870724,
+      "n_materials": 13,
+      "n_with_tc": 3,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "NNi",
+        "NNi",
+        "NV",
+        "PV",
+        "AsV",
+        "NZn",
+        "NV",
+        "NTi",
+        "SbV",
+        "NV"
+      ],
+      "tc_spread": 10.421957228301558
+    },
+    {
+      "rank": 32,
+      "class_invariant": 14.497444727911297,
+      "n_materials": 8,
+      "n_with_tc": 4,
+      "point_groups": [
+        "Td"
+      ],
+      "formulas": [
+        "CoN",
+        "MnN",
+        "CuN",
+        "MnP",
+        "MnSb",
+        "CrN",
+        "MnN",
+        "FeN"
+      ],
+      "tc_spread": 4.965931674624967
+    },
+    {
+      "rank": 33,
+      "class_invariant": 14.280749107380505,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "Td"
+      ],
+      "formulas": [
+        "BLiN"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 34,
+      "class_invariant": 14.15961900588853,
+      "n_materials": 15,
+      "n_with_tc": 1,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "TaV",
+        "OsV",
+        "OsTi",
+        "PtV",
+        "IrV",
+        "HfZn",
+        "ReTi",
+        "IrTi",
+        "AuV",
+        "OsV"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 35,
+      "class_invariant": 14.150411185020024,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D3h"
+      ],
+      "formulas": [
+        "STa"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 36,
+      "class_invariant": 13.82460630446489,
+      "n_materials": 6,
+      "n_with_tc": 5,
+      "point_groups": [
+        "D6h"
+      ],
+      "formulas": [
+        "B2Nb",
+        "B2Mo",
+        "B2Zr",
+        "B2Mo",
+        "B2Mo",
+        "B2Mo"
+      ],
+      "tc_spread": 0.2351351096188008
+    },
+    {
+      "rank": 37,
+      "class_invariant": 13.822479355939878,
+      "n_materials": 3,
+      "n_with_tc": 3,
+      "point_groups": [
+        "D4h"
+      ],
+      "formulas": [
+        "O4Ru2",
+        "O4Rh2",
+        "O4Pd2"
+      ],
+      "tc_spread": 13.818204058034636
+    },
+    {
+      "rank": 38,
+      "class_invariant": 13.61797280613589,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D6h"
+      ],
+      "formulas": [
+        "Be2Zr"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 39,
+      "class_invariant": 13.538044909365446,
+      "n_materials": 4,
+      "n_with_tc": 2,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "Cr6Ir2",
+        "Cr6Os2",
+        "Fe6Pt2",
+        "Cr6Pt2"
+      ],
+      "tc_spread": 4.311909331588586
+    },
+    {
+      "rank": 40,
+      "class_invariant": 13.111397134952,
+      "n_materials": 11,
+      "n_with_tc": 3,
+      "point_groups": [
+        "C4v"
+      ],
+      "formulas": [
+        "BeReZn2",
+        "BePtV2",
+        "BeTaZn2",
+        "BeOsV2",
+        "BeHfMn2",
+        "BeHfZn2",
+        "BeIrMn2",
+        "BeTaV2",
+        "BeTaV2",
+        "BeIrV2"
+      ],
+      "tc_spread": 9.805843296674507
+    },
+    {
+      "rank": 41,
+      "class_invariant": 13.018625604187099,
+      "n_materials": 8,
+      "n_with_tc": 3,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "Al3Zn",
+        "Al3Cu",
+        "Al3Ti",
+        "Al3V",
+        "Tl3Zn",
+        "Ga3Zn",
+        "In3Zn",
+        "Tl3Zn"
+      ],
+      "tc_spread": 12.729230720481219
+    },
+    {
+      "rank": 42,
+      "class_invariant": 12.894741137652659,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D4h"
+      ],
+      "formulas": [
+        "K2O5Rh2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 43,
+      "class_invariant": 12.731096790032236,
+      "n_materials": 2,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D2h"
+      ],
+      "formulas": [
+        "Fe4Se4",
+        "Fe4S4"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 44,
+      "class_invariant": 12.64296988949285,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "O3Ti3"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 45,
+      "class_invariant": 12.620083717687974,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "LiO2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 46,
+      "class_invariant": 12.521835756805652,
+      "n_materials": 18,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D4h"
+      ],
+      "formulas": [
+        "Be2KZr",
+        "Be2NaPd",
+        "Be2KMo",
+        "Ca2LiPd",
+        "Be2KZr",
+        "Be2LiPd",
+        "Be2KPd",
+        "Be2LiNb",
+        "Be2LiRu",
+        "Be2LiTc"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 47,
+      "class_invariant": 12.337922550664683,
+      "n_materials": 5,
+      "n_with_tc": 1,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "RhRuTi2",
+        "RuTcTi2",
+        "RuTcV2",
+        "RhTcTi2",
+        "PdTcTi2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 48,
+      "class_invariant": 12.24710228390325,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "D6h"
+      ],
+      "formulas": [
+        "ScSi2"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 49,
+      "class_invariant": 11.505550049525816,
+      "n_materials": 1,
+      "n_with_tc": 1,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "C3Nb4"
+      ],
+      "tc_spread": 0.0
+    },
+    {
+      "rank": 50,
+      "class_invariant": 11.484823205874566,
+      "n_materials": 4,
+      "n_with_tc": 2,
+      "point_groups": [
+        "Oh"
+      ],
+      "formulas": [
+        "Fe3NPt",
+        "Cr3NPt",
+        "Fe3NPt",
+        "Mn3NPt"
+      ],
+      "tc_spread": 3.0625447470634004
+    }
+  ],
+  "pg_stats": {
+    "D3h": {
+      "n_materials": 1836,
+      "n_components": 1120,
+      "n_with_tc": 49,
+      "max_tc": 33.47022368342787
+    },
+    "D6h": {
+      "n_materials": 2799,
+      "n_components": 1430,
+      "n_with_tc": 97,
+      "max_tc": 32.69089224607844
+    },
+    "Oh": {
+      "n_materials": 9227,
+      "n_components": 3629,
+      "n_with_tc": 407,
+      "max_tc": 28.09053401874162
+    },
+    "D4h": {
+      "n_materials": 5991,
+      "n_components": 3134,
+      "n_with_tc": 95,
+      "max_tc": 21.599740692816635
+    },
+    "C2v": {
+      "n_materials": 1311,
+      "n_components": 935,
+      "n_with_tc": 13,
+      "max_tc": 20.585709098483743
+    },
+    "Ci": {
+      "n_materials": 456,
+      "n_components": 411,
+      "n_with_tc": 4,
+      "max_tc": 20.403702269361062
+    },
+    "C3v": {
+      "n_materials": 1014,
+      "n_components": 624,
+      "n_with_tc": 3,
+      "max_tc": 20.03643206071191
+    },
+    "D2h": {
+      "n_materials": 3993,
+      "n_components": 2680,
+      "n_with_tc": 54,
+      "max_tc": 19.406984582327393
+    },
+    "D3d": {
+      "n_materials": 2113,
+      "n_components": 1353,
+      "n_with_tc": 33,
+      "max_tc": 16.147996464680585
+    },
+    "Td": {
+      "n_materials": 3269,
+      "n_components": 1480,
+      "n_with_tc": 33,
+      "max_tc": 14.497444727911297
+    },
+    "C4v": {
+      "n_materials": 2372,
+      "n_components": 1213,
+      "n_with_tc": 62,
+      "max_tc": 13.111397134952
+    },
+    "D2d": {
+      "n_materials": 1188,
+      "n_components": 693,
+      "n_with_tc": 6,
+      "max_tc": 9.03472728916272
+    },
+    "Th": {
+      "n_materials": 189,
+      "n_components": 129,
+      "n_with_tc": 4,
+      "max_tc": 7.551043838787761
+    },
+    "C2h": {
+      "n_materials": 2366,
+      "n_components": 1749,
+      "n_with_tc": 13,
+      "max_tc": 6.48267543738288
+    },
+    "C1": {
+      "n_materials": 640,
+      "n_components": 542,
+      "n_with_tc": 5,
+      "max_tc": 5.2525518524288115
+    },
+    "D6": {
+      "n_materials": 65,
+      "n_components": 52,
+      "n_with_tc": 4,
+      "max_tc": 4.09561049595604
+    },
+    "Cs": {
+      "n_materials": 862,
+      "n_components": 719,
+      "n_with_tc": 4,
+      "max_tc": 4.058060110059694
+    },
+    "T": {
+      "n_materials": 70,
+      "n_components": 47,
+      "n_with_tc": 3,
+      "max_tc": 2.2766822500725916
+    },
+    "D2": {
+      "n_materials": 85,
+      "n_components": 72,
+      "n_with_tc": 1,
+      "max_tc": 0.05626510303929843
+    },
+    "D3": {
+      "n_materials": 94,
+      "n_components": 85,
+      "n_with_tc": 1,
+      "max_tc": 0.040620096046031194
+    },
+    "C6v": {
+      "n_materials": 328,
+      "n_components": 187,
+      "n_with_tc": 1,
+      "max_tc": 1.6471014631124305e-10
+    },
+    "S6": {
+      "n_materials": 315,
+      "n_components": 209,
+      "n_with_tc": 0,
+      "max_tc": 0.0
+    },
+    "C3": {
+      "n_materials": 53,
+      "n_components": 51,
+      "n_with_tc": 0,
+      "max_tc": 0.0
+    },
+    "C4h": {
+      "n_materials": 170,
+      "n_components": 127,
+      "n_with_tc": 0,
+      "max_tc": 0.0
+    },
+    "D4": {
+      "n_materials": 56,
+      "n_components": 46,
+      "n_with_tc": 0,
+      "max_tc": 0.0
+    },
+    "C6h": {
+      "n_materials": 40,
+      "n_components": 31,
+      "n_with_tc": 0,
+      "max_tc": 0.0
+    },
+    "S4": {
+      "n_materials": 76,
+      "n_components": 66,
+      "n_with_tc": 0,
+      "max_tc": 0.0
+    },
+    "C2": {
+      "n_materials": 95,
+      "n_components": 85,
+      "n_with_tc": 0,
+      "max_tc": 0.0
+    },
+    "O": {
+      "n_materials": 27,
+      "n_components": 24,
+      "n_with_tc": 0,
+      "max_tc": 0.0
+    },
+    "C3h": {
+      "n_materials": 54,
+      "n_components": 33,
+      "n_with_tc": 0,
+      "max_tc": 0.0
+    },
+    "C4": {
+      "n_materials": 8,
+      "n_components": 7,
+      "n_with_tc": 0,
+      "max_tc": 0.0
+    },
+    "C6": {
+      "n_materials": 24,
+      "n_components": 20,
+      "n_with_tc": 0,
+      "max_tc": 0.0
+    }
+  }
+}

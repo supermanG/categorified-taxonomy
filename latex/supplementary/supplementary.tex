@@ -1,0 +1,60 @@
+%%% supplementary.tex
+%%% Supplementary material for: Categorified Materials Taxonomy
+%%% Horesh 2026
+
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{booktabs}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+
+\newcommand{\Tc}{T_{\mathrm{c}}}
+
+\title{Supplementary Material:\\Categorified Materials Taxonomy}
+\author{Lior Horesh\\\textit{DeepMath}}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Full substitution graph statistics}
+
+% TODO: Insert complete per-point-group table from build_full_graph.py
+
+\section{Lean 4 formalization details}
+
+The following theorems from the main text are formalized in Lean 4
+using Mathlib:
+
+\begin{enumerate}
+  \item \textbf{Strict 2-category axioms} (associativity, unit laws,
+    interchange) for the posetal 2-category $\mathscr{R}_{\geq 0}$.
+    File: \texttt{CatTax/Basic.lean}.
+
+  \item \textbf{Tc functoriality} (preservation of identity and
+    composition, monotonicity along morphism chains).
+    File: \texttt{CatTax/TcFunctor.lean}.
+
+  \item \textbf{Class invariant upper bound} (Theorem~4.2 of the main
+    text): for every material $M$ in a finite connected component $C$,
+    $\Tc(M) \leq I(C)$.
+    File: \texttt{CatTax/ClassInvariant.lean}.
+
+  \item \textbf{No violations}: the class invariant is never exceeded,
+    by construction (verified computationally on 41{,}190 JARVIS
+    materials with 0 violations).
+
+  \item \textbf{BCS channel refinement}: the effective bound
+    $\min(I(C), B_{\mathrm{channel}})$ is at most either constituent.
+\end{enumerate}
+
+\section{JARVIS dataset details}
+
+% TODO: Detail the filtering criteria, spacegroup-to-point-group
+% mapping, and supercon annotation procedure.
+
+\end{document}

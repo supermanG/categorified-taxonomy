@@ -7,7 +7,6 @@ dist/
 build/
 .pytest_cache/
 *.pdf
-data/*.json
 data/*.csv
 .claude/
 overnight/
